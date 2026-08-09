@@ -1,0 +1,9 @@
+apple@apples-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/10026 | jq '{number: .number, state: .state, head_repo: .head.repo.full_name, head_branch: .head.ref}'
+{
+  "number": 10026,
+  "state": "closed",
+  "head_repo": "khuntmeetmeet-beep/mcino-Introduction-to-Git-and-GitHub",
+  "head_branch": "bug-fix-revert"
+}
+apple@apples-MacBook-Pro mcino-Introduction-to-Git-and-GitHub % 
+ *  History restored 
