@@ -1,0 +1,9 @@
+git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+apple@apples-MacBook-Pro simple-interest-calculator % git merge bug-fix-typo
+Updating bb408e9..dd3bd6e
+Fast-forward
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 README.md
