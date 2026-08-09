@@ -1,0 +1,5 @@
+apple@apples-MacBook-Pro simple-interest-calculator % gi
+t branch -vv
+  bug-fix-typo dd3bd6e [origin/bug-fix-typo] Fix typo in README
+* main         dd3bd6e [origin/main: ahead 1] Fix typo in README
+apple@apples-MacBook-Pro simple-interest-calculator %
